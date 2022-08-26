@@ -1,1 +1,1 @@
-another text for readme
+my learning process is sweet
